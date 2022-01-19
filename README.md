@@ -27,8 +27,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
  </p>
 <br>
 <!--  <p> -->
- ## Connect With ME 🔗 :
-<br><br>
+
 ## Social Media 🔗 :
 <br><br>
 <p align='center'>
