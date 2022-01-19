@@ -83,7 +83,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 <br>
 <p align='center'>
  <img src="https://github-readme-stats.vercel.app/api?username=piyushhawq&show_icons=true&theme=radical">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=radical"> -->
 </p>
 <hr>
 <br>
@@ -91,7 +91,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 ## Most Used Languages 📚
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=piyushhawq&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
 </p>
 <p align='center'>
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
