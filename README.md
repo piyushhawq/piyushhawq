@@ -208,11 +208,13 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 
 <hr>
 <br>
-<!-- 
+
+
 ## Just a snake eating my contributions 🐍
 <p align='center'>
-<img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg">
-</p> -->
+<img src="https://github.com/piyushhawq/piyushhawq/blob/output/github-contribution-grid-snake.gif">
+<!-- <img src="https://github.com/chinmay29hub/chinmay29hub/raw/output/github-contribution-grid-snake.svg"> -->
+</p>
 
 <hr>
 <br>
