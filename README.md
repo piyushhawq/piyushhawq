@@ -98,11 +98,6 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 <hr>
 <br>
 
-## Technology Stack 💻
-
-<p align='center'>
-<img src="https://github.com/piyushhawq/Images/blob/main/giphytechnology%20used.webp"width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
 ### Programming Languages 👨‍💻 :
 <br>
 <p align='center'>
