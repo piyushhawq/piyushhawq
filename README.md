@@ -74,14 +74,16 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 
 ## Github Contribution Streak 🔥 
 <br>
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmay29hub&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
 
+<p align='center'><img src="http://github-readme-streak-stats.herokuapp.com?user=piyushhawq&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></p>
+<!-- (https://git.io/streak-stats) -->
 <hr><br>
 
 ## Github Stats &nbsp;📊
 <br>
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark">
+ <img src="https://github-readme-stats.vercel.app/api?username=piyushhawq&show_icons=true&theme=radical">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=chinmay29hub&show_icons=true&theme=github_dark"> -->
 </p>
 <hr>
 <br>
