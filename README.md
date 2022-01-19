@@ -205,7 +205,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 ## Github Contributions 📈
 <br>
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=chinmay29hub&theme=react-dark&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=piyushhawq&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
@@ -221,14 +221,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 <hr>
 <br>
 
-## Waka Time Stats 🕰
-<br>
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=chinmay29hub&theme=github_dark">
-</p>
 
-<hr>
-<br>
 
 <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <br>
