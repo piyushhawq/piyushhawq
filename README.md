@@ -3,7 +3,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 <img src="https://github.com/piyushhawq/Images/blob/main/coderanimation.gif">
 </p>
 <hr>
-<br>
+
 <p align='auto'>
  - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 "𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝" 
  <br>
@@ -25,11 +25,10 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 
 <hr>
  </p>
-<br>
 <!--  <p> -->
 
 ## Social Media 🔗 :
-<br><br>
+<br>
 <p align='center'>
 <a href="mailto:piyush.cv1999@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
@@ -48,7 +47,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
  
   <a href="https://www.instagram.com/piyush.chaturvedi_3/" target="_blank">
 <img src="https://img.shields.io/badge/piyush.chaturvedi_3-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
- <br><br>
+ <br>
  </p>
 
 ## Coding Plateform 🔗 :
@@ -97,10 +96,10 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 </p>
 
 <hr>
-<br>
+
 
 ### Programming Languages 👨‍💻 :
-<br>
+
 <p align='center'>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
@@ -113,10 +112,10 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;
 
 </p>
-<br>
+
 
 ### Frameworks & Libraries 📦 :
-<br>
+
 <p align='center'>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
@@ -128,18 +127,18 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
   
 
 </p>
-<br>
+
 
 ### Design 🎨 :
-<br>
+
 <p align='center'>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF">&nbsp;&nbsp;
 </p>
-<br>
+
 
 ### IDEs/Editors 👨‍🔧 :
-<br>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">&nbsp;&nbsp;
@@ -147,19 +146,19 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
 </p>
-<br>
+
 
 ### Version Control 🔧 :
-<br>
+
 <p align='center'>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 </p>
-<br>
+
 
 
 ### Hosting 🌎 :
-<br>
+
 <p align='center'>
 <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="121" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
@@ -169,26 +168,25 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 </p>
-<br>
+
 
 ### Server 🗃️ :
-<br>
+
 <p align='center'>
 <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
 </p>
-<br>
 
 ### Database 💾 :
-<br>
+
 <p align='center'>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 </p>
-<br>
+
 
 
 ### Operating Systems 🐧 :
-<br>
+
 <p align='center'>
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <br>
@@ -199,16 +197,16 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 </p>
 <hr>
-<br>
+
 
 ## Github Contributions 📈
-<br>
+
 <p align='center'>
 <img src="https://activity-graph.herokuapp.com/graph?username=piyushhawq&theme=react-dark&hide_border=true">
 <p>
 
 <hr>
-<br>
+
 
 
 ## Just a snake eating my contributions 🐍
@@ -218,7 +216,7 @@ _<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercon
 </p>
 
 <hr>
-<br>
+
 
 
 
