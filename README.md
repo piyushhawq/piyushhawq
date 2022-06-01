@@ -1,4 +1,6 @@
-_<h1> Hello Fellow < Coders/ >! I'am Piyush<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+_<h1> Hello Fellow < Coders/ >! I'am Piyush 👋🏻
+<!--  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>-->
+</h1> 
 <p align='center'>
 <img src="https://github.com/piyushhawq/Images/blob/main/coderanimation.gif">
 </p>
